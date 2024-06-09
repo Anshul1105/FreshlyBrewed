@@ -1,0 +1,19 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    /* text-align: center; */
+    font-family: "Poppins", sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.heading{
+    margin:200px 0;
+}
+.shinyText{
+    margin: 2rem 0;
+}

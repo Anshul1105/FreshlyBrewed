@@ -1,0 +1,24 @@
+.timerContainer {
+  margin: 0rem 0 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(225, 173, 230);
+    border-radius: 10px;
+    padding: 10px;
+    min-width: 300px;
+  }
+  
+  .timerItem {
+    margin: 0 10px;
+  }
+  
+  .timerValue {
+    font-size: 24px;
+  }
+  
+  .timerLabel {
+    font-size: 16px;
+    color: black;
+  }
+  
